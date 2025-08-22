@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 ¡Hola, soy Sara!
 
-<!--
-**sararoal/sararoal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Desarrolladora Web**
+📍 Sevilla, España  
+🎯 Apasionada por descubrir, innovar en proyectos y desarrollarme en la industria del software.   
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+- 📈 En constante aprendizaje de herramientas modernas como React, Node.js, Spring Boot y bases de datos relacionales y no relacionales.
+- 🔍 Curiosa y autodidacta, siempre buscando nuevas formas de optimizar, innovar y crecer profesionalmente.
+- 💡 Con especial interés en nuevas tecnologías, metodologías ágiles y buenas prácticas de desarrollo.
+- 🌍 Abierta a oportunidades en el sector tecnológico en España y en entornos remotos.
+---
+
+## 🛠️ Lenguajes y Herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,java,php,docker,mysql,mongodb,git,github,bitbucket,vscode" />
+</p>
+
+---
+
+## 📌 Proyectos Destacados
+🔹 [**ChatIA**](https://github.com/sararoal/ChatIA) – Proyecto con **React** y manejo de estados.    
+
+---
+
+## 📈 Mis estadísticas en GitHub
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=sararoal&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sararoal&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Conéctate conmigo
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-rodr%C3%ADguez-alcoba/)  
+📧 **sararodriguezalcoba95@gmail.com**
+
+---
+✨ *"Si se puede imaginar, se puede programar."*  
