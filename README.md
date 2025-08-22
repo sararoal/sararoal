@@ -1,4 +1,4 @@
-![Banner](assets/GitHub-Sara.png)
+![Banner](assets/GitHub-Sara.jpg)
 # 👋 ¡Hola, soy Sara!
 
 💻 **Desarrolladora Web**
