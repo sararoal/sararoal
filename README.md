@@ -21,7 +21,7 @@
 ---
 
 ## 📌 Proyectos Destacados
-🔹 [**ChatIA**](https://github.com/sararoal/ChatIA) – Proyecto con **React** y manejo de estados.    
+🔹 [**ChatIA**](https://github.com/sararoal/ChatIA) – Aplicación web en **React** de chat inteligente que conecta a los usuarios con una inteligencia artificial capaz de completar frases y responder preguntas de forma coherente y sencilla.    
 
 ---
 
