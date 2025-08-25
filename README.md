@@ -2,6 +2,7 @@
 # 👋 ¡Hola, soy Sara!
 
 💻 **Desarrolladora Web**
+
 📍 Sevilla, España  
 🎯 Apasionada por descubrir, innovar en proyectos y desarrollarme en la industria del software.   
 
@@ -22,8 +23,8 @@
 ---
 
 ## 📌 Proyectos Destacados
-🔹 [**ChatIA**] 🤖(https://github.com/sararoal/ChatIA) – Aplicación web en **React** de chat inteligente que conecta a los usuarios con una inteligencia artificial capaz de completar frases y responder preguntas de forma coherente y sencilla.    
-🔹 [**Rastrea tu pedido**] 📦(https://github.com/sararoal/rastrea-pedido) – Aplicación web en **Java** para consultar el estado de envíos y paquetes mediante número de seguimiento y compañía de transporte.
+🔹 **ChatIA**🤖(https://github.com/sararoal/ChatIA) – Aplicación web en **React** de chat inteligente que conecta a los usuarios con una inteligencia artificial capaz de completar frases y responder preguntas de forma coherente y sencilla.    
+🔹 **Rastrea tu pedido**📦(https://github.com/sararoal/rastrea-pedido) – Aplicación web en **Java** para consultar el estado de envíos y paquetes mediante número de seguimiento y compañía de transporte.
 
 ---
 
